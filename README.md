@@ -5,6 +5,7 @@
 ## Description 
 This application contains a React Portfolio containing an About Me section, a portfolio of a selection of my works, a Resume section, and a form to contact me.
 ![image](https://user-images.githubusercontent.com/85199825/142740699-a6d8ac18-ca73-4f6c-99b9-efca44848438.png)
+![image](https://user-images.githubusercontent.com/85199825/142740724-16afb135-19ac-4b13-9389-a285f72d0b9a.png)
 
 ## Table of Contents
 1. [Installation](#installation)
