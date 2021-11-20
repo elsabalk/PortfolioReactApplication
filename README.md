@@ -28,7 +28,7 @@ The project is licensed under MIT
 Contributions are welcome, feedback is important!
 
 ## Questions
-If you have any questions about the repo, please open an issue or contact me directly at elsabalk@hotmail.com. You can also find
+If you have any questions about the repo, please open an issue or contact me directly at elsabalk@hotmail.com.
 
 ## Deployed Site
 https://elsabalk.github.io/PortfolioReactApplication/
