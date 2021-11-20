@@ -1,9 +1,10 @@
-## Online Offline Budget Trackers
+## React Portfolio Application
 ---------------------------------------------------------------------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
 This application contains a React Portfolio containing an About Me section, a portfolio of a selection of my works, a Resume section, and a form to contact me.
+![image](https://user-images.githubusercontent.com/85199825/142740699-a6d8ac18-ca73-4f6c-99b9-efca44848438.png)
 
 ## Table of Contents
 1. [Installation](#installation)
