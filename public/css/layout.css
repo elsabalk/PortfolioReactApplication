@@ -1,0 +1,264 @@
+body {
+  background: #0f0f0f;
+  font: "Shippori Antique", sans-serif;
+
+}
+
+header {
+  position: relative;
+  height: 700px;
+  min-height: 500px;
+  width: 100%;
+  background: #161415 url(../images/header-background.jpg);
+  text-align: center;
+}
+
+header:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+header .banner {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 auto;
+  width: 85%;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+header .banner-text {
+  width: 100%;
+}
+header .banner-text h1 {
+  font: 85px/1.1em "Shippori Antique", sans-serif;
+  color: #fff;
+  letter-spacing: -4px;
+  margin: 0 auto 10px auto;
+}
+header .banner-text h3 {
+  font: 18px/1.9em "Shippori Antique", sans-serif;
+  color: #fff;
+  margin: auto;
+  width: 100%;
+}
+
+
+#nav-wrap {
+  font: 20px "Shippori Antique", sans-serif;
+  width: 100%;
+  margin: auto;
+  position: fixed;
+  top: 0;
+}
+
+#nav-wrap > a.mobile-btn {
+  display: none;
+}
+
+ul#nav li {
+  position: relative;
+  list-style: none;
+  display: inline-block;
+}
+
+ul#nav li a {
+  display: inline-block;
+  padding: 6px 15px;
+  color: #fff;
+}
+
+.aboutPara {
+  font: #fff;
+}
+
+#about {
+  background: #33293d9a;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+#about h2 {
+  font: 32px "Shippori Antique", sans-serif;
+  color: #fff;
+}
+
+#about .profile-pic {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+
+
+#resume {
+  background: #945656;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+
+
+#resume h1 {
+  font: 24px "Shippori Antique", sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#resume h1 span {
+  border-bottom: 1px solid #33293d9a;
+  padding-bottom: 6px;
+}
+#resume h3 {
+  font: 24px "Shippori Antique", sans-serif;
+  color:#110e149a;
+}
+
+#resume .info {
+   font: 24px "Shippori Antique",  sans-serif;
+   color: #fff;
+ }
+
+ #resume .date {
+   font: 18px "Shippori Antique", sans-serif;
+   margin-top: 6px;
+ }
+ 
+.education,
+.work {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #fff;
+}
+
+#portfolio {
+  background: #33293d9a;
+  padding-top: 90px;
+  padding-bottom: 60px;
+}
+
+.portfolioTitle {
+  font: 32px "Shippori Antique", sans-serif;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.button {
+  background-color: #fff;
+  color: #33293d9a;
+  border: none;
+  padding: 10px 36px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+   background: #798188;
+   color: #fff;
+}
+
+
+#contact {
+  background: #191919;
+  padding-top: 96px;
+  padding-bottom: 102px;
+  color: #636363;
+
+}
+
+.lead {
+  font: 32px "Shippori Antique", sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+#contact .section-head {
+  margin-bottom: 20px;
+}
+
+
+#contact h1 {
+  font: 18px/24px "Shippori Antique", sans-serif;
+  letter-spacing: 3px;
+  color: #945656;
+  margin-bottom: 6px;
+}
+
+
+
+
+
+
+#contact label {
+  font: 22px "Shippori Antique", sans-serif;
+  margin: 12px 0;
+  color: #ebeeee;
+  display: inline-block;
+  float: left;
+  width: 26%;
+}
+
+
+#contact span.required {
+  color: #b01111;
+  font-size: 13px;
+}
+
+form { margin-bottom: 24px; }
+fieldset { margin-bottom: 24px; }
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select {
+   display: block;
+   padding: 18px 15px;
+   margin: 0 0 24px 0;
+   border: 0;
+   outline: none;
+   vertical-align: middle;
+   min-width: 225px;
+	max-width: 100%;
+   font-size: 15px;
+   line-height: 24px;
+	color: #647373;
+	background: #D3D9D9;
+
+}
+
+footer {
+  padding-top: 48px;
+  margin-bottom: 48px;
+  color: #303030;
+  font-size: 14px;
+  text-align: center;
+  position: relative;
+}
+
+footer .social-links {
+  margin: 18px 0 30px 0;
+  padding: 0;
+  font-size: 30px;
+}
+footer .social-links li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  margin-left: 42px;
+  color: #f06000;
+}
+
+footer .social-links li:first-child {
+  margin-left: 0;
+}
+
+.row {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
